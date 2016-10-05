@@ -1,6 +1,16 @@
 body {
   background-color: #f7f7f7;
+  font-family: Helvetica;
 }
+
+dt {
+  font-weight: 700;
+  font-weight: bold;
+}
+#fav {
+  background-color: ivory;
+}
+
 
 /* 
 Add CSS rules so that:
